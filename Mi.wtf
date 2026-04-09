@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ffgringoxp123-code/miwtf-script/refs/heads/main/script.lua"))()
